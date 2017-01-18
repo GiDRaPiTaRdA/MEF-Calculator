@@ -1,0 +1,5 @@
+C:\Users\Admin\Desktop\Simple Calculator MEF Application\C#\StaticValues\bin\Debug\StaticValues.dll
+C:\Users\Admin\Desktop\Simple Calculator MEF Application\C#\StaticValues\bin\Debug\StaticValues.pdb
+C:\Users\Admin\Desktop\Simple Calculator MEF Application\C#\StaticValues\obj\Debug\StaticValues.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Simple Calculator MEF Application\C#\StaticValues\obj\Debug\StaticValues.dll
+C:\Users\Admin\Desktop\Simple Calculator MEF Application\C#\StaticValues\obj\Debug\StaticValues.pdb

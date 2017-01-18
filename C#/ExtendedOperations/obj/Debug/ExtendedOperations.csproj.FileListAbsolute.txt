@@ -1,0 +1,10 @@
+C:\Users\Admin\Desktop\Simple Calculator MEF Application\C#\SimpleCalculator3\Extensions\ExtendedOperations.dll
+C:\Users\Admin\Desktop\Simple Calculator MEF Application\C#\SimpleCalculator3\Extensions\ExtendedOperations.pdb
+C:\Users\Admin\Desktop\Simple Calculator MEF Application\C#\ExtendedOperations\obj\Debug\ExtendedOperations.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Simple Calculator MEF Application\C#\ExtendedOperations\obj\Debug\ExtendedOperations.dll
+C:\Users\Admin\Desktop\Simple Calculator MEF Application\C#\ExtendedOperations\obj\Debug\ExtendedOperations.pdb
+C:\Users\Admin\Desktop\Simple Calculator MEF\C#\ExtendedOperations\obj\Debug\ExtendedOperations.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Simple Calculator MEF\C#\ExtendedOperations\obj\Debug\ExtendedOperations.dll
+C:\Users\Admin\Desktop\Simple Calculator MEF\C#\ExtendedOperations\obj\Debug\ExtendedOperations.pdb
+C:\Users\Admin\Desktop\Simple Calculator MEF\C#\SimpleCalculator3\Extensions\ExtendedOperations.dll
+C:\Users\Admin\Desktop\Simple Calculator MEF\C#\SimpleCalculator3\Extensions\ExtendedOperations.pdb

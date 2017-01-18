@@ -1,0 +1,10 @@
+C:\Users\Admin\Desktop\Simple Calculator MEF Application\C#\SimpleCalculator3\obj\x86\Debug\Calculator.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Simple Calculator MEF Application\C#\SimpleCalculator3\bin\Debug\SimpleCalculator.exe
+C:\Users\Admin\Desktop\Simple Calculator MEF Application\C#\SimpleCalculator3\bin\Debug\SimpleCalculator.pdb
+C:\Users\Admin\Desktop\Simple Calculator MEF Application\C#\SimpleCalculator3\obj\x86\Debug\SimpleCalculator.exe
+C:\Users\Admin\Desktop\Simple Calculator MEF Application\C#\SimpleCalculator3\obj\x86\Debug\SimpleCalculator.pdb
+C:\Users\Admin\Desktop\Simple Calculator MEF\C#\SimpleCalculator3\bin\Debug\Calculator.exe
+C:\Users\Admin\Desktop\Simple Calculator MEF\C#\SimpleCalculator3\bin\Debug\Calculator.pdb
+C:\Users\Admin\Desktop\Simple Calculator MEF\C#\SimpleCalculator3\obj\x86\Debug\Calculator.exe
+C:\Users\Admin\Desktop\Simple Calculator MEF\C#\SimpleCalculator3\obj\x86\Debug\Calculator.pdb
+C:\Users\Admin\Desktop\Simple Calculator MEF\C#\SimpleCalculator3\obj\x86\Debug\Calculator.csprojResolveAssemblyReference.cache
